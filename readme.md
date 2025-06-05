@@ -1,6 +1,9 @@
-# Docker Proxy Service
+# Proxify
 
-A lightweight reverse proxy service that automatically routes `*.localhost` domains to running Docker containers based on their names.
+Proxify is a lightweight reverse proxy that automatically routes *.localhost domains to running Docker containers based on their names (e.g., nginx.localhost → nginx container IP).
+
+It solves the problem of manually managing port mappings and remembering random ports when developing with multiple Docker containers - instead of accessing localhost:3001, localhost:8080, etc., we can use intuitive domain names that automatically update as containers start/stop.
+
 ![image](https://github.com/user-attachments/assets/3973378b-ea63-46c1-92d3-3010cbb17415)
 
 ## Features
@@ -33,8 +36,8 @@ When you access `myapp.localhost`, the proxy:
 
 1. **Clone and setup:**
 ```bash
-git clone <repository-url>
-cd docker-proxy-service
+git clone https://github.com/Sahiiil1406/proxify
+cd proxify
 ```
 
 2. **Start the service:**
