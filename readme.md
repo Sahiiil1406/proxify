@@ -111,7 +111,7 @@ Response:
 
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/3973378b-ea63-46c1-92d3-3010cbb17415)
+![image](https://github.com/user-attachments/assets/e333ee44-c81e-46b1-9964-5ac4960aeb73)
 
 ![image](https://github.com/user-attachments/assets/69c3d758-aae5-4684-8a43-92f3a2e41b1f)
 
