@@ -1,6 +1,7 @@
 # Docker Proxy Service
 
 A lightweight reverse proxy service that automatically routes `*.localhost` domains to running Docker containers based on their names.
+![image](https://github.com/user-attachments/assets/3973378b-ea63-46c1-92d3-3010cbb17415)
 
 ## Features
 
@@ -104,3 +105,14 @@ Response:
 |----------|---------|-------------|
 | `MANAGEMENT_PORT` | 8080 | Port for management endpoints |
 | `PROXY_PORT` | 80 | Port for proxy server |
+
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/3973378b-ea63-46c1-92d3-3010cbb17415)
+
+![image](https://github.com/user-attachments/assets/69c3d758-aae5-4684-8a43-92f3a2e41b1f)
+
+![image](https://github.com/user-attachments/assets/68e2cacb-b014-4db1-ba43-672e17934ae1)
+
+
+
