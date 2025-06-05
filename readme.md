@@ -26,6 +26,9 @@ When you access `myapp.localhost`, the proxy:
 2. Looks up the container's IP address
 3. Forwards the request to `http://container-ip:port`
 
+![image](https://github.com/user-attachments/assets/25eb8794-9c32-4da4-aed6-7b56a5706c56)
+
+
 ## Quick Start
 
 ### Prerequisites
